@@ -1,0 +1,2 @@
+rootProject.name='android_firebase_messenger_app'
+include ':app'

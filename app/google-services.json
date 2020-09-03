@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1066760543419",
+    "firebase_url": "https://android-firebase-messenger-app.firebaseio.com",
+    "project_id": "android-firebase-messenger-app",
+    "storage_bucket": "android-firebase-messenger-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1066760543419:android:589e0b3f13aeabe2ee5d9e",
+        "android_client_info": {
+          "package_name": "shota.suzuki.android_firebase_messenger_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1066760543419-9q6ffu08hfhl80scmgh7jmbp4a4cpuu3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "shota.suzuki.android_firebase_messenger_app",
+            "certificate_hash": "b449d1d75e17160735eea9fbeb5ffeebc47c13ec"
+          }
+        },
+        {
+          "client_id": "1066760543419-ve1i23mkka6oml1e3fbdq25jlmp3apk1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMdE_JmxeOHJk93jjriSa54D1tJhX7AO8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1066760543419-ve1i23mkka6oml1e3fbdq25jlmp3apk1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
